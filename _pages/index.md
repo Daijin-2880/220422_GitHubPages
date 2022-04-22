@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "※*大人の大臣*＊"
 author: default
 permalink: /
 ---
